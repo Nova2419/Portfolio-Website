@@ -1,5 +1,5 @@
 # PORTFOLIO
 
-https://hovinhthanh7893.github.io/portfolio/
+Website - https://personal-portfolio-sepia-six.vercel.app/
 
-Updated January 2023
+Updated June 2023
