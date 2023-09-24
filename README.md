@@ -2,4 +2,4 @@
 
 Website - https://shivam-ojha-portfolio.vercel.app/
 
-Updated June 2023
+Updated - June 2023
